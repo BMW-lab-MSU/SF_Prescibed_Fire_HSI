@@ -108,7 +108,7 @@ python preprocessing/extract_patches.py --cube_path data/VNIR.hdr --labels data/
 ---
 
 ## 🔗 Citation  
-If you use this repository or its methods, please cite:
+If you use this repository or its methods, please cite, will update correct citations soon:
 ```
 @inproceedings{mlsp2025_hsi_burn,
   title={Attention and Edge-Aware Band Selection for Efficient Hyperspectral Classification of Burned Vegetation},
